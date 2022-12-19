@@ -1,0 +1,12 @@
+.orderDetailsContainer {
+    width: 30%;
+    display: flex;
+}
+
+.orderDetailsForm {
+    padding: 20px;
+}
+
+.formHeader{
+    padding: 20px;
+}

@@ -1,0 +1,9 @@
+.productsPageContainer {
+    font-family: 'Figtree', sans-serif;
+}
+
+.productsContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
